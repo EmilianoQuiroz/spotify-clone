@@ -1,8 +1,8 @@
 
 export default function Home() {
   return (
-  <div>
-    Spotify Clone
+  <div className="text-green-500">
+    Spotify Cloneeee
   </div>
   );
 }
